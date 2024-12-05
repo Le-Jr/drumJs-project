@@ -6,7 +6,7 @@ Este projeto foi desenvolvido para aprimorar meus conhecimentos em JavaScript, e
 
 Além de ser uma experiência prática divertida, o projeto ajudou a consolidar conceitos fundamentais de programação e interatividade na web.
 
-<img src="./images/print-pag.png" alt="Exemplo imagem" width="700">
+<img src="./images/print-pag1.png" alt="Exemplo imagem" width="700">
 
 ## 🚀 Começando
 
